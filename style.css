@@ -1,0 +1,26 @@
+#main-title {
+	color: blue;
+	font-size: 20 px;
+	text-align: center;
+	}
+	
+.content {
+	background-color: pink;
+	}
+
+p {
+	color: blue;
+	}
+
+.news > article > h2 {
+  color: green;
+  font-size: 40px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-dark {
+  color: #333333;
+}
