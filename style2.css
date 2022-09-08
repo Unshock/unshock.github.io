@@ -1,0 +1,45 @@
+.main-title {
+	color: #333333;
+	font-size: 20px;
+	text-align: center;
+	font-weight: bold;
+	}
+
+
+.semi-main-title {
+	color: #333333;
+	font-size: 18px;
+	text-align: center;
+	font-weight: bold;
+	}
+
+	
+.content {
+	background-color: white;
+	margin: 5px 40px;
+	}
+
+p {
+	color: #333333;
+	font-family: serif;
+	font-size: 16px;
+	line-height: 1.5;
+	text-align: justify;
+	}
+
+.font-style {
+	color: #333333;
+	font-family: serif;
+	line-height: 1.5;
+	text-align: justify;
+	}
+
+.project-name {
+  	font-weight: bold;
+	color: #3366BB;
+	font-size: 16px;
+}
+
+.text-dark {
+  color: #333333;
+}
